@@ -55,11 +55,11 @@ const accessKeyID string = "-------------------------"
 const secretAccessKey string = "-------------------------------"
 
 /*--- Global Variables ---*/
-var instance1 = instance{name: "i-b56a2571", typ: "InstanceId", region: "us-west-2"}
-var instance2 = instance{name: "i-45cf8281", typ: "InstanceId", region: "us-west-2"}
-var instance3 = instance{name: "i-30aae5f4", typ: "InstanceId", region: "us-west-2"}
-var instance4 = instance{name: "i-0bf021cf", typ: "InstanceId", region: "us-west-2"}
-var volumeInstance1 = instance{name: "vol-f0765131", typ: "VolumeId", region: "us-west-2"}
+var instance1 = instance{name: "i-b445678y", typ: "InstanceId", region: "us-west-2"}
+var instance2 = instance{name: "i-sdsdsde3", typ: "InstanceId", region: "us-west-2"}
+var instance3 = instance{name: "i-12swc34t", typ: "InstanceId", region: "us-west-2"}
+var instance4 = instance{name: "i-askfer32", typ: "InstanceId", region: "us-west-2"}
+var volumeInstance1 = instance{name: "vol-ccd2345", typ: "VolumeId", region: "us-west-2"}
 var loadBalancer1 = instance{name: "SQUAD-LoadBalancer", typ: "LoadBalancerName", region: "us-west-2"}
 
 /*--- Functions ---*/
